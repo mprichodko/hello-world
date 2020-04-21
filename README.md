@@ -2,5 +2,7 @@
 This is my very first step in GitHub so I have no idea what I am doing.
 This is my second step and I still have no idea what I'm doing. Can I use emojis here? 🤷‍♀️Damn, really? A male dot estrogen?
 💃🏼 That's better 👍
-Ok moving on...
-PS. Ha! Now I see "a male dot estrogen" shows up as a female 🤔
+Ok moving on.... Ha! Now I see "a male dot estrogen" shows up as a female 🤔
+
+
+So time for some male influence! 😂
