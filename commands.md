@@ -38,13 +38,13 @@ Add the following to a file called `~/.gitconfig`
 ## Terminal commands
 
 ```
-$ ls 		#list files
-$ ls -a 	#list also hidden files
-$ ls -l 	#list data about files
-$ cd my-dir	#change directory
-$ cd - 		#change back to previous directory
-$ cat my-file.txt # print file to terminal
-$ pwd		#print working directory
-$ touch my-file #creates an empty file
+$ ls 			#list files
+$ ls -a 		#list also hidden files
+$ ls -l 		#list data about files
+$ cd my-dir		#change directory
+$ cd - 			#change back to previous directory
+$ cat my-file.txt 	# print file to terminal
+$ pwd			#print working directory
+$ touch my-file 	#creates an empty file
 
 ```
