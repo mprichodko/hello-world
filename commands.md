@@ -16,6 +16,8 @@ git reset  243dd4g3 / undo commit..
 git push / pushing to github
 git fetch / checking whats on github
 git pull / checking and downloading changes from github
+git remote set-url origin /setting or changing the origin url
+git push --set-upstream origin new-branch
 
 ```
 ------
